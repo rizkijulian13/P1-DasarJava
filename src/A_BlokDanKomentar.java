@@ -3,7 +3,10 @@ public class A_BlokDanKomentar {
         System.out.println("Dasar Pemograman Java");
         // contoh komentar 1 baris
         /*
-       Contoh Komentar
+       Contoh Komentar lebih dari satu baris
+         */
+        /**
+         * Java Doc..> baris ini untuk
          */
     }
 }
